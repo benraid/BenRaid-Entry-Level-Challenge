@@ -1,8 +1,6 @@
-# ReliaQuest Employee API
-
-ReliaQuest Entry-Level Java Challenge. It provides a simple REST API to manage employee data.
-
 ## Overview
+
+Entry-Level Java Challenge. It provides a simple REST API to manage employee data.
 
 - **GET /api/v1/employee**: Returns a list of all employees.
 - **GET /api/v1/employee/{uuid}**: Returns details for a single employee by UUID.
